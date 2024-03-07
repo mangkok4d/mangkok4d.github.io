@@ -7,37 +7,37 @@
 <meta name="google-site-verification" content="WeLbnf3LDEwOW8RULEPvHxvNewmUB2_2SkCQ-n7sqBw" />
 <meta name="google-site-verification" content="GK670J8kfW7IsGvNgnOZlTWA8pgHmRV3MSOqOLCv_RA" />
 <script async src="https://cdn.ampproject.org/v0.js"></script>
-<link rel="preload" href="https://xy2801.com/images/mangkok4d/logo-mangkok4d.png" as="image">
+<link rel="preload" href="https://xy2801.com/images/bukit4d/logo-bukit.png" as="image">
 <link rel="preload" href="https://usglobalasset.com/a1/bg-hero-min.webp" as="image">
-<link rel="preload" href="https://xy2801.com/images/mangkok4d/mangkok4d-.jpg" as="image">
+<link rel="preload" href="https://xy2801.com/images/bukit4d/bkt4.jpg" as="image">
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-<link rel="shortcut icon" href="https://xy2801.com/images/mangkok4d/fav.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://xy2801.com/images/bukit4d/fav.png" type="image/x-icon">
 <link rel="canonical" href="https://mangkok4d.github.io/">
 <link rel="alternate" href="https://mangkok4d.github.io/" hreflang="id"/>
 <meta name="robots" content="index, follow"/>
 <meta name="page-locale" content="id,en"/>
 <meta content="indonesian" name="language">
-<title>Mangkok4D|Game Digital Inovatif Masa Sekarang</title>
-<meta name="title" content="MANGKOK4D ## Website Super Easy To Win Bocor Ratusan Juta Setiap Hari">
-<meta name="description" content="Mangkok4D website super easy win modal mini menang giant sampai dengan ratusan juta rupiah Most trusted ever gacor">
-<meta name="keywords" content="Mangkok4D">
+<title>BUKIT4D|Game Digital Inovatif Masa Sekarang</title>
+<meta name="title" content="BUKIT4D ## Website Super Easy To Win Bocor Ratusan Juta Setiap Hari">
+<meta name="description" content="Bukit4D website super easy win modal mini menang giant sampai dengan ratusan juta rupiah Most trusted ever gacor">
+<meta name="keywords" content="Bukit4D">
 
 <!-- META OG -->
-    <meta name="og:title" content="MANGKOK4D|Game Digital Inovatif Masa Sekarang"/>
+    <meta name="og:title" content="BUKIT4D|Game Digital Inovatif Masa Sekarang"/>
     <meta name="og:description"
-          content="Mangkok4D  website super easy win modal mini menang giant sampai dengan ratusan juta rupiah Most trusted ever gacor"/>
+          content="Bukit4D  website super easy win modal mini menang giant sampai dengan ratusan juta rupiah Most trusted ever gacor"/>
     <meta property="og:image:width" content="600"/>
     <meta property="og:image:height" content="466"/>
     <meta name="og:url" content="https://mangkok4d.github.io/">
-    <meta name="og:site_name" content="Mangkok4D"/>
+    <meta name="og:site_name" content="Bukit4D"/>
     <meta name="og:locale" content="ID_id"/>
     <meta name="og:type" content="website"/>
-    <meta name="categories" content="Mangkok4D"/>
+    <meta name="categories" content="Bukit4D"/>
     <meta name="rating" content="general"/>
-    <meta name="copyright" content="Mangkok4D"/>
-    <meta name="author" content="Mangkok4D"/>
+    <meta name="copyright" content="Bukit4D"/>
+    <meta name="author" content="Bukit4D"/>
     <meta name="distribution" content="global"/>
-    <meta name="publisher" content="Mangkok4D"/>
+    <meta name="publisher" content="Bukit4D"/>
     <meta name="geo.country" content="ID"/>
     <meta name="tgn.nation" content="Indonesia"/>
     <meta name="googlebot" content="index,follow"/>
@@ -54,7 +54,7 @@
     <meta name="geo.region" content="ID-JK"/>
     <meta name="geo.placename" content="Jakarta Special Capital Region"/>
 
-    <link rel="shortcut icon" type="image/x-icon" href="https://xy2801.com/images/mangkok4d/fav.png"/>
+    <link rel="shortcut icon" type="image/x-icon" href="https://xy2801.com/images/bukit4d/fav.png"/>
     <meta name="google-site-verification" content="AJEthBE698rfwjj5r97WdvNWXYK-a3thus_7yUUlYm0" />
     <meta name="google-site-verification" content="c7KXS5GDMpNLYMSZtZX-yK1isYW9Pp5yY14vQhw0FoI" />
     <!-- Script-->
@@ -76,22 +76,22 @@
         "@type": "WebPage",
         "@id": "https://mangkok4d.github.io/"
     },
-    "headline": "MANGKOK4D|Game Digital Inovatif Masa Sekarang",
+    "headline": "BUKIT4D|Game Digital Inovatif Masa Sekarang",
     "image": [
-        "https://xy2801.com/images/mangkok4d/mangkok4d-.jpg"
+        "https://xy2801.com/images/bukit4d/bkt4.jpg"
         ],
     "datePublished": "2022-07-26T13:40:12+00:00",
     "dateModified": "2022-09-07T14:57:17+00:00",
     "author": {
         "@type": "Person",
-        "name": "Mangkok4D",
+        "name": "Bukit4D",
         "url": "https://mangkok4d.github.io/"
         },
     "publisher": {"@type": "Organization",
-        "name":"Mangkok4D",
+        "name":"Bukit4D",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://xy2801.com/images/mangkok4d/mangkok4d-.jpg"
+            "url": "https://xy2801.com/images/bukit4d/bkt4.jpg"
         }
     }
 }
@@ -108,8 +108,8 @@
     </button>
     
     <ul>
-      <li class=log><a href="https://shrtlink.me/Mangkok4d" target="_blank" rel="noopener noreferrer"><strong>LOGIN</strong></a></li>
-      <li class=reg><a href="https://shrtlink.me/Mangkok4d" target="_blank" rel="noopener noreferrer"><strong>DAFTAR</strong></a></li>
+      <li class=log><a href="https://tempat.link/daftarbukit4d" target="_blank" rel="noopener noreferrer"><strong>LOGIN</strong></a></li>
+      <li class=reg><a href="https://tempat.link/daftarbukit4d" target="_blank" rel="noopener noreferrer"><strong>DAFTAR</strong></a></li>
     </ul>
   </div>
 </amp-sidebar>
@@ -118,11 +118,11 @@
   <nav>
     <div class=container>
       <div class=brand>
-        <amp-img height=59 width=220 alt="Mangkok4D" src="https://xy2801.com/images/mangkok4d/logo-mangkok4d.png"></amp-img>
+        <amp-img height=40 width=130 alt="Bukit4D" src="https://xy2801.com/images/bukit4d/logo-bukit.png"></amp-img>
       </div>
       <div class=menu>
         
-        <a href="https://shrtlink.me/Mangkok4d" class=btn target="_blank" rel="noopener noreferrer">LOGIN</a>
+        <a href="https://tempat.link/daftarbukit4d" class=btn target="_blank" rel="noopener noreferrer">LOGIN</a>
       </div>
       <div class=menu-mobile><button on="tap:sidebar.toggle">☰</button></div>
     </div>
@@ -135,14 +135,14 @@
     <div class=container>
       <div class=row>
         <div class="col-lg-6 col-md-12">
-          <amp-img class=imghero height=320 width=300 alt="Mangkok4D" src=https://xy2801.com/images/mangkok4d/mangkok4d-.jpg></amp-img>
+          <amp-img class=imghero height=320 width=300 alt="Bukit4D" src=https://xy2801.com/images/bukit4d/bkt4.jpg></amp-img>
         </div>
         <div class="col-lg-6 col-md-12 hrinfo">
-          <p class=hrbrand><span class=b1>MANGKOK</span><span class=b2>4D</span></p>
-          <p class=hrjg>MANGKOK4D|Game Digital Inovatif Masa Sekarang</p>
+          <p class=hrbrand><span class=b1>BUKIT</span><span class=b2>4D</span></p>
+          <p class=hrjg>BUKIT4D|Game Digital Inovatif Masa Sekarang</p>
           <div class=hrbtn>
-            <a href="https://shrtlink.me/Mangkok4d" class=btn1 target="_blank" rel="noopener noreferrer nofollow">DAFTAR</a>
-            <a href="https://shrtlink.me/Mangkok4d" class=btn2 target="_blank" rel="noopener noreferrer nofollow">LOGIN</a>
+            <a href="https://tempat.link/daftarbukit4d" class=btn1 target="_blank" rel="noopener noreferrer nofollow">DAFTAR</a>
+            <a href="https://tempat.link/daftarbukit4d" class=btn2 target="_blank" rel="noopener noreferrer nofollow">LOGIN</a>
           </div>
         </div>
       </div>
@@ -153,9 +153,9 @@
     <div class=container>
       <div class=row>
         <div class=col-md-12>
-          <h1 class=tc>MANGKOK4D|Game Digital Inovatif Masa Sekarang</h1>
-          <p class=tj>Dunia Game gacor terus bertambah besar seiring berjalannya waktu, dan sudah tentu dunia itu terus berkembang serta merta bersamaan dengan berkembangnya <a href='https://mangkok4d.github.io/'>MANGKOK4D</a> sebagai website number #1 yang pernah ada dan tidak pernah mengecewakan sekalipun. Dengan banyaknya member yang sudah mempercayakan untuk terus menghasilkan uang bersama dengan MANGKOK4D pastinya mereka sudah percaya untuk bermain Game online bersama dengan kami dengan banyaknya testimoni yang sudah membuktikan betapa seringnya member mendapatkan jackpot besar yang bisa mencapai ratusan juta rupiah. Best online Game website that give you more money everyday, itu lah slogan yang tepat untuk bermain bersama MANGKOK4D yang sudah pasti menang setiap harinya dan bisa menjadikan situs ini sebagai patokan untuk mendapatkan penghasilan tambahan yang efisien dan juga sesuatu hal yang fix setiap hari nya.</p>
-          <p class=tj>Kami juga mendapatkan julukan sebagai Number #1 website bocor yang berarti terus memberikan member uang asli dan jackpot setiap hari nya, tidak lupa bocor itu juga bisa diartikan dalam bentuk berbagi promosi untuk para official member yang terus setia bermain bersama dengan kami. Berbagai provider Game terus bertambah banyak setiap harinya dan terus melakukan support untuk membuat para official member terus bisa menang dan terus maxwin dalam bentuk apapun maka itu langsung untuk feel free to try yourself, play with MANGKOK4D now or never !</p>
+          <h1 class=tc>BUKIT4D|Game Digital Inovatif Masa Sekarang</h1>
+          <p class=tj>Dunia Game gacor terus bertambah besar seiring berjalannya waktu, dan sudah tentu dunia itu terus berkembang serta merta bersamaan dengan berkembangnya <a href='https://mangkok4d.github.io/'>BUKIT4D</a> sebagai website number #1 yang pernah ada dan tidak pernah mengecewakan sekalipun. Dengan banyaknya member yang sudah mempercayakan untuk terus menghasilkan uang bersama dengan BUKIT4D pastinya mereka sudah percaya untuk bermain Game online bersama dengan kami dengan banyaknya testimoni yang sudah membuktikan betapa seringnya member mendapatkan jackpot besar yang bisa mencapai ratusan juta rupiah. Best online Game website that give you more money everyday, itu lah slogan yang tepat untuk bermain bersama BUKIT4D yang sudah pasti menang setiap harinya dan bisa menjadikan situs ini sebagai patokan untuk mendapatkan penghasilan tambahan yang efisien dan juga sesuatu hal yang fix setiap hari nya.</p>
+          <p class=tj>Kami juga mendapatkan julukan sebagai Number #1 website bocor yang berarti terus memberikan member uang asli dan jackpot setiap hari nya, tidak lupa bocor itu juga bisa diartikan dalam bentuk berbagi promosi untuk para official member yang terus setia bermain bersama dengan kami. Berbagai provider Game terus bertambah banyak setiap harinya dan terus melakukan support untuk membuat para official member terus bisa menang dan terus maxwin dalam bentuk apapun maka itu langsung untuk feel free to try yourself, play with BUKIT4D now or never !</p>
   </div>
 
  </section> 
